@@ -20,6 +20,9 @@ Contains:
  - Power BI
  - Excel
  - Github
+
+# Dashboard
+![Dashboard](Sales-Project-1.png)
  
 #Dashboard File
 [Download Dashboard](Dashboard-Sales%20Performance%2005%20May.pdf)
